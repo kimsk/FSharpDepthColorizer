@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MyFSParser", "MyFSParser\MyFSParser.fsproj", "{C11D4092-A6E2-4BB8-A27A-FB31959A71F8}"
 EndProject
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "VSIXColorizer", "VSIXColorizer\VSIXColorizer.fsproj", "{98F0CDBF-72B3-4D86-9259-08899889AB0A}"
